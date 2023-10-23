@@ -1,0 +1,6 @@
+; example file
+
+; define a function
+; def {fun} (\ {args body} {def (head args) (\ (tail args) body)})
+
+(print "Hello world!")
